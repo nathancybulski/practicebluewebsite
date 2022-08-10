@@ -28,3 +28,15 @@ div.a {
 .head1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.mainbody {
+    margin: auto;
+    max-width: 80%;
+}
+
+.blacktext {
+    background-color: rgb(0, 33, 90);
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
